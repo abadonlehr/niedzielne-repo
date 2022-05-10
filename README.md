@@ -1,2 +1,2 @@
 # niedzielne-repo
-i poniedzialkowe ćwiczenia
+poniedzialkowe i wtorkowe ćwiczenia
